@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uapp>
+    <name>PVR</name>
+    <bundleid>com.pvr.www</bundleid>
+    <version>1.2</version>
+    <versionlog>1.2版本更新内容：。。。</versionlog>
+    <box>
+        <packageurl>./box/pvr1.2.tar</packageurl>
+        <md5>ababababababaabababa</md5>
+        <dependences>
+            <dependence>1</dependence>
+        </dependences>
+        <permissions>
+            <permission></permission>
+        </permissions>
+    </box>
+    <www>
+        <packageurl>./www/pvr1.2.tar</packageurl>
+        <md5>ababababababaabababa</md5>
+        <dependences>
+            <dependence>1</dependence>
+        </dependences>
+        <permissions>
+            <permission></permission>
+        </permissions>
+    </www>
+</uapp>
